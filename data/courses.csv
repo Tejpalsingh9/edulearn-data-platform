@@ -1,0 +1,31 @@
+course_id,course_name,category,price,delivery_mode,instructor,available
+CRS001,Python for Data Science,Data Science,3999.0,self-paced,Dr Anjali Sharma,True
+CRS002,Machine Learning A-Z,Data Science,5999.0,self-paced,Prof Rahul Verma,True
+CRS003,Deep Learning with TensorFlow,Data Science,6999.0,self-paced,Dr Priya Nair,True
+CRS004,SQL for Beginners,Databases,1999.0,self-paced,Arun Mehta,True
+CRS005,Advanced SQL & Analytics,Databases,3499.0,self-paced,Dr Kavya Reddy,True
+CRS006,MongoDB Essentials,Databases,2999.0,self-paced,Suresh Iyer,True
+CRS007,AWS Cloud Practitioner,Cloud,4999.0,live,Vikram Singh,True
+CRS008,AWS Solutions Architect,Cloud,8999.0,live,Nikhil Kapoor,True
+CRS009,Azure Fundamentals,Cloud,4499.0,self-paced,Meera Pillai,True
+CRS010,Data Engineering with Spark,Data Engineering,7999.0,live,Dr Rohan Joshi,True
+CRS011,Apache Kafka Fundamentals,Data Engineering,4999.0,self-paced,Aditya Kumar,True
+CRS012,Databricks Lakehouse,Data Engineering,6999.0,live,Pradeep Rao,True
+CRS013,React JS Complete Guide,Web Development,3999.0,self-paced,Sahil Gupta,True
+CRS014,Node.js & Express,Web Development,3499.0,self-paced,Tanvi Shah,True
+CRS015,Django REST API,Web Development,3999.0,self-paced,Arjun Patel,True
+CRS016,Flutter App Development,Mobile,4999.0,self-paced,Swati Naidu,True
+CRS017,Android Development,Mobile,4499.0,self-paced,Karan Dubey,True
+CRS018,iOS Development - Swift,Mobile,5499.0,self-paced,Pooja Bhat,False
+CRS019,Project Management (PMP Prep),Management,5999.0,live,Ramesh Chauhan,True
+CRS020,Agile Scrum Master,Management,4499.0,self-paced,Nisha Saxena,True
+CRS021,Digital Marketing,Marketing,2999.0,self-paced,Divya Malhotra,True
+CRS022,SEO & Content Strategy,Marketing,2499.0,self-paced,Farhan Chopra,True
+CRS023,Excel for Business Analytics,Business,1499.0,self-paced,Rekha Shetty,True
+CRS024,Power BI for Data Analytics,Business,2999.0,self-paced,Gopal Menon,True
+CRS025,Tableau Complete Guide,Business,3499.0,self-paced,Harini Krishnan,True
+CRS026,Cybersecurity Fundamentals,Security,4499.0,self-paced,Mohammed Tiwari,True
+CRS027,Ethical Hacking,Security,5999.0,live,Aryan Srivastava,True
+CRS028,Linux Administration,DevOps,3499.0,self-paced,Ishan Pandey,True
+CRS029,Docker & Kubernetes,DevOps,5499.0,self-paced,Deepak Mishra,True
+CRS030,CI/CD with Jenkins,DevOps,3999.0,self-paced,Uma Chopra,False
