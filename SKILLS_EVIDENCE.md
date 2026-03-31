@@ -230,13 +230,7 @@ if __name__ == '__main__':
     print("\n[EduLearn] Profiling complete.")
 ```
 
-**Sample output from running the script:**
 
-```
-[EduLearn] enrollments.csv | rows: 503 | nulls in enrollment_id: 0 | duplicates: 0
-[EduLearn] customers.csv   | rows: 100 | nulls in customer_id: 0   | duplicates: 0
-...
-```
 
 ### Q3. Producer/Sender class — Full class (Block 5)
 
